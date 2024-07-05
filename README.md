@@ -12,4 +12,4 @@ This is a file compilation of all final projects of the team BerLoPa (Consisting
 
 ## User Manual
 
-[How to use the app](user_manual.md)
+[How to use the app](USER_MANUAL.md)
